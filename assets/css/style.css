@@ -1,0 +1,10 @@
+.main{
+    -webkit-box-shadow: 2px 2px 2px 2px #333333;
+    -moz-box-shadow: 2px 2px 2px 2px #333333;
+    box-shadow: 2px 2px 2px 2px #333333;
+}
+
+.logo{
+    float: left;
+    padding-top: 26px;
+}

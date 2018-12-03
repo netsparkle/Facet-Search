@@ -1,0 +1,5 @@
+.filter-cat{
+    max-height: 200px;
+    overflow-x: hidden;
+    overflow-y: scroll;
+}
